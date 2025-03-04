@@ -72,6 +72,9 @@ npx cdk deploy
 - **Verify SNS Subscriptions** → Ensure the SNS topic is correctly linked to Slack.
 - **Inspect Failed Files in S3** → Quarantined files are stored for manual review.
 
+## Article on Medium
+Find the article on Medium [Serverless Data Processing Pipeline on AWS]([https://www.linkedin.com/in/mohsin-sheikhani/](https://mohsinsheikhani.medium.com/1a26aa9998d1)) 
+
 ---
 
 🚀 **Follow me on [LinkedIn](https://www.linkedin.com/in/mohsin-sheikhani/) for more AWS content!**
