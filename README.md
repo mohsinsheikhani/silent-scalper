@@ -46,8 +46,8 @@ This project is deployed using **AWS CDK**.
 
 ```sh
 # Clone the repository
-git clone https://github.com/your-username/self-healing-data-pipeline.git
-cd self-healing-data-pipeline
+git clone https://github.com/mohsinsheikhani/silent-scalper.git
+cd silent-scalper
 
 # Install dependencies
 npm install
