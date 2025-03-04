@@ -13,7 +13,8 @@ This project implements a self-healing, fully serverless, auto-scaling data proc
 
 ## Architecture
 
-![Architecture Diagram](./self-healing-pipeline.png)
+![Architecture Diagram](https://github.com/user-attachments/assets/af6b480e-6e57-4ffe-b497-82d2a3e4ec50)
+
 
 ### **Workflow**
 
