@@ -73,7 +73,7 @@ npx cdk deploy
 - **Inspect Failed Files in S3** → Quarantined files are stored for manual review.
 
 ## Article on Medium
-Find the article on Medium [Serverless Data Processing Pipeline on AWS]([https://www.linkedin.com/in/mohsin-sheikhani/](https://mohsinsheikhani.medium.com/1a26aa9998d1)) 
+Find the article on Medium [Serverless Data Processing Pipeline on AWS](https://mohsinsheikhani.medium.com/building-a-self-healing-serverless-data-processing-pipeline-on-aws-1a26aa9998d1) 
 
 ---
 
